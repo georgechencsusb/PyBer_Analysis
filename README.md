@@ -13,7 +13,7 @@ The purpose of this challenge was to use a ride-sharing dataset to produce a sum
 * The highest average fares per ride were collected in rural cities ($34.62), followed by suburban cities ($30.97), and rural cities ($24.53).
 * The highest average fares per driver were collected in rural cities ($55.49), followed by suburban cities ($39.50), and rural cities ($16.57).
 ![Total weekly fares by city type](Analysis/PyBer_fare_summary.png)
-* The highest total weekly fares were collected in urban cities, followed by suburban cities, and rural cities ($4,327.93).
+* The highest total weekly fares were collected in urban cities, followed by suburban cities, and rural cities.
 
 ## Summary
 
